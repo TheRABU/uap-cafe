@@ -1,0 +1,92 @@
+[
+  {
+    "FoodName": "Margherita Pizza",
+    "FoodImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "FoodCategory": "Pizza",
+    "Price": 12.99,
+    "MadeBy": "Chef Mario",
+    "FoodOrigin": "Italy",
+    "Description": "Classic Margherita pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves."
+  },
+  {
+    "FoodName": "Pasta Platter",
+    "FoodImage": "https://plus.unsplash.com/premium_photo-1679072595330-67c13052bd1c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "FoodCategory": "Pasta",
+    "Price": 24.99,
+    "MadeBy": "Chef Sato",
+    "FoodOrigin": "Italy",
+    "Description": "A Premium bowl of pasta is worth eating with your friends, family, loved ones. This Pasta is by far the most amazing one we serve here."
+  },
+  {
+    "FoodName": "Chowmin",
+    "FoodImage": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "FoodCategory": "Mexican",
+    "Price": 8.99,
+    "MadeBy": "Chef Juan",
+    "FoodOrigin": "Mexico",
+    "Description": "Traditional Chowmin tacos filled with pineapple, onions, and cilantro, served with a side of salsa."
+  },
+  {
+    "FoodName": "White Sausage Pasta",
+    "FoodImage": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "FoodCategory": "Thai",
+    "Price": 14.99,
+    "MadeBy": "Chef Somchai",
+    "FoodOrigin": "Thailand",
+    "Description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts, flavored with tamarind sauce and lime."
+  },
+  {
+    "FoodName": "Beef Burger",
+    "FoodImage": "https://plus.unsplash.com/premium_photo-1684534125661-614f59f16f2e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "FoodCategory": "Indian",
+    "Price": 15.99,
+    "MadeBy": "Chef Aditi",
+    "FoodOrigin": "India",
+    "Description": "Tender chicken pieces cooked in a creamy tomato sauce,beef and bread."
+  },
+  {
+    "FoodName": "Rajma Chawal",
+    "FoodImage": "https://media.istockphoto.com/id/1497379921/photo/rajma-or-razma-is-a-popular-north-indian-food-consisting-of-cooked-red-kidney-beans-in-a.jpg?s=2048x2048&w=is&k=20&c=pRO3mCLgbWsAI5ufte6rI4vSiG2Xzq2snQbFN6kHctc=",
+    "FoodCategory": "Spicy",
+    "Price": 9.99,
+    "MadeBy": "Aditi",
+    "FoodOrigin": "India",
+    "Description": "Fresh salad with cucumbers, tomatoes, olives, feta cheese, and oregano, dressed with olive oil and lemon juice."
+  },
+  {
+    "FoodName": "Ramen Noodles",
+    "FoodImage": "https://example.com/images/ramen_noodles.jpg",
+    "FoodCategory": "Japanese",
+    "Price": 13.99,
+    "MadeBy": "Chef Hiroshi",
+    "FoodOrigin": "Japan",
+    "Description": "Hot and savory ramen noodles served in a rich broth with slices of pork, boiled eggs, seaweed, and scallions."
+  },
+  {
+    "FoodName": "Cheeseburger",
+    "FoodImage": "https://example.com/images/cheeseburger.jpg",
+    "FoodCategory": "Burgers",
+    "Price": 11.99,
+    "MadeBy": "Chef Tom",
+    "FoodOrigin": "USA",
+    "Description": "Juicy beef patty topped with melted cheddar cheese, lettuce, tomato, and pickles, served with a side of fries."
+  },
+  {
+    "FoodName": "Falafel Wrap",
+    "FoodImage": "https://example.com/images/falafel_wrap.jpg",
+    "FoodCategory": "Middle Eastern",
+    "Price": 7.99,
+    "MadeBy": "Chef Layla",
+    "FoodOrigin": "Middle East",
+    "Description": "Crispy falafel balls wrapped in a warm pita bread with hummus, tahini sauce, and fresh vegetables."
+  },
+  {
+    "FoodName": "Croissant",
+    "FoodImage": "https://example.com/images/croissant.jpg",
+    "FoodCategory": "Bakery",
+    "Price": 3.99,
+    "MadeBy": "Chef Pierre",
+    "FoodOrigin": "France",
+    "Description": "Flaky and buttery croissant, perfect for breakfast or a light snack, served with jam and butter."
+  }
+]
