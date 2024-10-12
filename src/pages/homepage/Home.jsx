@@ -1,13 +1,14 @@
 import AllfoodSection from "../../components/AllfoodSection";
-import Banner from "../../components/Banner";
-import NavBar from "../../components/NavBar";
+import Category from "./Category/Category";
+
+import SliderBanner from "./SliderBanner/SliderBanner";
 
 const Home = () => {
   return (
     <>
       <div>
-        {/* <NavBar /> */}
-        <Banner />
+        <SliderBanner />
+        <Category />
         <AllfoodSection />
       </div>
     </>

@@ -44,7 +44,7 @@ const Footer = () => {
           </a>
         </div>
       </nav>
-      <aside>
+      <aside className="footer-center p-4 bg-base-300 text-base-content w-full">
         <p>
           Copyright © {new Date().getFullYear()} - All right reserved by UAP
           Cafeteria
